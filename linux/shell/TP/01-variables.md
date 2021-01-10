@@ -49,7 +49,7 @@ Le 1er argument contient : 4 caracteres
 Le 2eme argument contient : 6 caracteres
 ```
 
-# Exercice 3 : Lecture clavier
+## Exercice 3 : Lecture clavier
 
 Écrire un script hello.sh qui :
 
@@ -68,3 +68,4 @@ Entrez votre nom : Deffaix Remy
 Bonjour Christine Deffaix Remy, bienvenue ! 
 Le PID du shell est 2569
 ```
+
