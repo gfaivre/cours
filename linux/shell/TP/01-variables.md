@@ -63,9 +63,9 @@ Le 2eme argument contient : 6 caracteres
 
 ```
 $ hello.sh  
-Entrez votre prenom : Christine 
-Entrez votre nom : Deffaix Remy 
-Bonjour Christine Deffaix Remy, bienvenue ! 
-Le PID du shell est 2569
+Entrez votre prenom : Anon 
+Entrez votre nom : Ymous 
+Bonjour Anon Ymous, bienvenue ! 
+Le PID du shell est 1254
 ```
 
