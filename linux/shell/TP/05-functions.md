@@ -61,9 +61,9 @@ $ watch_sf.sh
 0 - Fin 
 1 - Supprimer les fichiers de taille 0 sous mon repertoire d’accueil 
 2 - Controler l’espace disque du SF racine 
-Votre choix : **1** 
+Votre choix : 1 
 rm: détruire fichier régulier vide  
-'/home/vagrant/f1'? **n** 
+'/home/vagrant/f1'? n 
 etc. 
 ```
 
@@ -73,7 +73,7 @@ $ watch_sf.sh
 0 - Fin 
 1 - Supprimer les fichiers de taille 0 sous mon repertoire d’accueil 
 2 - Controler l’espace disque du SF racine 
-Votre choix : **2** 
+Votre choix : 2 
 Taux d’occupation du SF racine : NORMAL
 ```
 
