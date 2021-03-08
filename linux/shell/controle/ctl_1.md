@@ -33,17 +33,17 @@
 
 19. Quelles sont les commandes correctes pour rediriger tous les affichages dans le même fichier?
 
-[ ] `find / -name test.php 1> resu 2> resu`
-[ ] `find / -name test.php 1> resu 2>> resu`
-[ ] `find / -name test.php 1> resu 2&1`
-[ ] `find / -name test.php 2> resu 1&2`
-[ ] `find / -name test.php 1> resu 1>&2 2>resu`
-[ ] Aucune de ces propositions
+- [ ] `find / -name test.php 1> resu 2> resu`
+- [ ] `find / -name test.php 1> resu 2>> resu`
+- [ ] `find / -name test.php 1> resu 2&1`
+- [ ] `find / -name test.php 2> resu 1&2`
+- [ ] `find / -name test.php 1> resu 1>&2 2>resu`
+- [ ] Aucune de ces propositions
 
 20. Comment rediriger la sortie standard de toutes ces commandes dans le même fichier ? 
 
-[ ] `cd /tmp ; pwd ; ls > listefic`
-[ ] `{ cd /tmp ; pwd ; ls } > listefic`
-[ ] `[ cd /tmp ; pwd ; ls ] > listefic`
-[ ] `( cd /tmp ; pwd ; ls ) > listefic`
-[ ] Aucune de ces propositions
+- [ ] `cd /tmp ; pwd ; ls > listefic`
+- [ ] `{ cd /tmp ; pwd ; ls } > listefic`
+- [ ] `[ cd /tmp ; pwd ; ls ] > listefic`
+- [ ] `( cd /tmp ; pwd ; ls ) > listefic`
+- [ ] Aucune de ces propositions
