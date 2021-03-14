@@ -8,7 +8,7 @@ Commandes utiles : `df`, `who`.
 
 * Écrire une fonction `users_connect` qui affichera la liste des utilisateurs actuellement connectés.
 
-* Écrire une fonction `disk_space qui affichera l’espace disque disponible.
+* Écrire une fonction `disk_space` qui affichera l’espace disque disponible.
 
 * Le programme principal affichera le menu suivant :
 
